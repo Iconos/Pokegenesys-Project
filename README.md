@@ -1,4 +1,4 @@
-# Pokegenesis-Project
+# Pokegenesys-Project
 A pokemon-oriented conversion for use with the Genesys Roleplaying system by Fantasy Flight Games
 
 This project falls under Fair Use. All Pokemon properties are owned by Nintendo/Gamefreak. All Genesys properties are owned by Fantasy Flight Games.
