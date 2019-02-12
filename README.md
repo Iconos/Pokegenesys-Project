@@ -11,7 +11,7 @@ Berries Module contains data for every official berry variant along with their e
 
 (Optional) Emotion Engine Module contains a method to expand on the motivations section of the Genesys handbook. This section is a more robust method of determining a creature's actions based on stimuli. It is especially geared towards simulating the pokemon's side of a relationship between themselves and their trainer. It is entirely optional.
 
-
+Pokemon Sheet PDF is the simplified character sheets used for Pokemon. These are meant to be printed off and cut to size. They may be updated at a later date depending upon feedback or system changes.
 
 Current Roadmap:
 1: Testing
