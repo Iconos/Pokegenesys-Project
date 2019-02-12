@@ -14,18 +14,33 @@ Berries Module contains data for every official berry variant along with their e
 Pokemon Sheet PDF is the simplified character sheets used for Pokemon. These are meant to be printed off and cut to size. They may be updated at a later date depending upon feedback or system changes.
 
 Current Roadmap:
+
 1: Testing
-2: Adding mainstay items such as Potion and Full Heal
+
+2: Adding mainstay items such as Potion and Full Heal.
+
 3: Clarifying evolution rules and language.
+
 4: Clarifying XP gain and spending rules.
+
 5: Creating a Trainer talent that unlocks and expands the leadership skill for checks involving leading a pokemon. May be expandable to include gym-leader or professor talents.
+
 6: Expanding the Catching module to include additional ball types.
+
 7: Adding a crafting module to include Ball and Potion crafting.
+
 8: Determining cost conversions between standard Pokemon sources and those used by the standard Genesys loadout.
+
 9: Putting everything together in a pdf or booklet that can be handed to players.
+
 10: Creating a searchable database that allows for encounter building and NPC generation.
+
 11: Creation of an Ability Module that adds the Pokemon Abilities from the main series. May look into converting heroic abilities.
+
 12: Assigning biome data to the Monster database for use with encounter building.
-13: Converting/creating a compatible pokemon-themed campaign for use with the system. I actually have one built, but a new one may be needed for a more authentic adventure.
+
+13: Converting/creating a compatible pokemon-themed campaign for use with the system. I actually have one built for another system, but a new one may be needed for a more authentic adventure.
+
 14: Creation of a Mystery Dungeon module. A set of rules for when the PCs are pokemon themselves.
 
+15: Conversion of Minion/rival/adversary groups into the more-thematic classifications of Horde, Totem, Ancient, and primal levelled pokemon. (My old setting had an additional classification of Eldritch, but I'm not sure where that would fit atm.)
