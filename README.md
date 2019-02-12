@@ -1,6 +1,10 @@
 # Pokegenesis-Project
 A pokemon-oriented conversion for use with the Genesys Roleplaying system by Fantasy Flight Games
 
+This project falls under Fair Use. All Pokemon properties are owned by Nintendo/Gamefreak. All Genesys properties are owned by Fantasy Flight Games.
+
+File Description:
+
 Pokegenesys Monster Data contains the stat block for every official pokemon and official variant present so far.
 
 Moves Module contains the building blocks necessary to create moves or attacks within the system. It is based upon the Signature Spell section of the Genesys handbook.
