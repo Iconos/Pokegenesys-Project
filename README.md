@@ -27,7 +27,7 @@ Current Roadmap:
 
 4: Clarifying XP gain and spending rules.
 
-5: Creating a Trainer talent that unlocks and expands the leadership skill for checks involving leading a pokemon. May be expandable to include gym-leader or professor talents.
+5: Creating a Trainer talent that unlocks and expands the leadership skill for checks involving leading a pokemon. May be expandable to include gym-leader or professor talents. I originally toyed with the idea of having a trainer proffession, but I didn't want to limit player choice to a single proffesion in order to play in a pokemon campaign. With a few pokemon-themed talents instead, players can choose the standard proffesions while leaving the trainer archtype as an option.
 
 6: Expanding the Catching module to include additional ball types.
 
@@ -47,4 +47,6 @@ Current Roadmap:
 
 14: Creation of a Mystery Dungeon module. A set of rules for when the PCs are pokemon themselves.
 
-15: Conversion of Minion/rival/adversary groups into the more-thematic classifications of Horde, Totem, Ancient, and primal levelled pokemon. (My old setting had an additional classification of Eldritch, but I'm not sure where that would fit atm.)
+15: Conversion of Minion/Rival/Adversary groups into the more-thematic classifications of Horde, Totem, Ancient, and Primal-class pokemon. (My old setting had an additional classification of Eldritch, but I'm not sure where that would fit atm.)
+
+16: Clarification of rules for double, multi-, and tri-battles. Update the Emotion Engine to reflect a pokemon's attitude when ganged up on for battle/capture.
