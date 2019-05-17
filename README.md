@@ -9,9 +9,11 @@ Pokegenesys Monster Data contains the stat block for every official pokemon and 
 
 Moves Module contains the building blocks necessary to create moves or attacks within the system. It is based upon the Signature Spell section of the Genesys handbook.
 
-Catching Module contains the basic data for catching a pokemon with a ball. Several balls are listed, but the expansion of this module is planned.
+Catching Module contains the basic data for catching a pokemon with a ball. Several balls are listed Apricot balls have been added, but require clarification due to their Scrap Item requirements.
 
-Berries Module contains data for every official berry variant along with their effects. Some effects have been altered from their original versions to provide more versatility within the system.
+Crafting Module contains data required to obtain building materials(Scraps) and rules for using those materials to craft basic items. Scraps have attributes that can be used to craft specific items, but can also be used as a simple currency for most common items. Further expansion and clarification is needed.
+
+Berries Module contains data for every official berry variant along with their effects. Some effects have been altered from their original versions to provide more versatility within the system.(ex. Status Condition healing berries only suppress the status condition for a period of time. The Master ball is not entirely infallable, but does ignore a pokemon's Catch Rate and Wounds)
 
 (Optional) Emotion Engine Module contains a method to expand on the motivations section of the Genesys handbook. This section is a more robust method of determining a creature's actions based on stimuli. It is especially geared towards simulating the pokemon's side of a relationship between themselves and their trainer. It is entirely optional.
 
@@ -21,17 +23,17 @@ Current Roadmap:
 
 1: Testing
 
-2: Adding mainstay items such as Potion and Full Heal.
+2: Adding mainstay items such as Potion and Full Heal. [Complete]
 
-3: Clarifying evolution rules and language.
+3: Clarifying evolution rules and language. Need Evolution Stone items and rules to be added. May make an additional module similar to Pokemon Go's evolution mechanics.
 
 4: Clarifying XP gain and spending rules.
 
 5: Creating a Trainer talent that unlocks and expands the leadership skill for checks involving leading a pokemon. May be expandable to include gym-leader or professor talents. I originally toyed with the idea of having a trainer proffession, but I didn't want to limit player choice to a single proffesion in order to play in a pokemon campaign. With a few pokemon-themed talents instead, players can choose the standard proffesions while leaving the trainer archtype as an option.
 
-6: Expanding the Catching module to include additional ball types.
+6: Expanding the Catching module to include additional ball types. [Updated, Customizable Apricot Balls added]
 
-7: Adding a crafting module to include Ball and Potion crafting.
+7: Adding a crafting module to include Ball and Potion crafting. [Updated. Need to clarify Scrap Traits and their bonuses]
 
 8: Determining cost conversions between standard Pokemon sources and those used by the standard Genesys loadout.
 
